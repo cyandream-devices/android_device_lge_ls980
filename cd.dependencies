@@ -1,0 +1,17 @@
+[
+ {
+   "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_device_lge_g2-common",
+   "target_path": "device/lge/g2-common"
+ },
+ {
+   "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_kernel_lge_msm8974",
+   "target_path": "kernel/lge/msm8974"
+ },
+ { 
+   "branch": "cm-11.0", 
+   "repository": "TheMuppets/proprietary_vendor_lge", 
+   "target_path": "vendor/lge" 
+ } 
+]
